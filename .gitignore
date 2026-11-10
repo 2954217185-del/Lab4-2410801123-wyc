@@ -1,0 +1,14 @@
+# Git ignore for Lab4
+__pycache__/
+*.pyc
+*.pt
+pdf_pages/
+slices/
+cookies_7100.txt
+notebook.html
+notebook.js
+run_ocr.ps1
+讲义.png
+题目与作业要求.txt
+data/frames/*.jpg
+*.zip
